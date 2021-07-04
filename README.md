@@ -1,0 +1,2 @@
+# Maze Pathfinding Visualizer
+ 
